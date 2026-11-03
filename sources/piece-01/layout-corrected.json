@@ -1,0 +1,251 @@
+{
+	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
+	"instruments": [],
+	"groups": [],
+	"instrumentsFixed": false,
+	"pages": [
+		{
+			"image": "../img/01.jpg",
+			"measures": [],
+			"staves": [],
+			"grandstaves": []
+		},
+		{
+			"image": "../img/02.jpg",
+			"measures": [
+				{
+					"ulx": 1323,
+					"uly": 395,
+					"lrx": 1939,
+					"lry": 725
+				},
+				{
+					"ulx": 473,
+					"uly": 396,
+					"lrx": 1316,
+					"lry": 723
+				},
+				{
+					"ulx": 1945,
+					"uly": 396,
+					"lrx": 2575,
+					"lry": 724
+				},
+				{
+					"ulx": 953,
+					"uly": 849,
+					"lrx": 1479,
+					"lry": 1451
+				},
+				{
+					"ulx": 1491,
+					"uly": 849,
+					"lrx": 2024,
+					"lry": 1449
+				},
+				{
+					"ulx": 2036,
+					"uly": 850,
+					"lrx": 2572,
+					"lry": 1448
+				},
+				{
+					"ulx": 212,
+					"uly": 852,
+					"lrx": 947,
+					"lry": 1449
+				},
+				{
+					"ulx": 959,
+					"uly": 1551,
+					"lrx": 1480,
+					"lry": 2174
+				},
+				{
+					"ulx": 1493,
+					"uly": 1551,
+					"lrx": 2024,
+					"lry": 2175
+				},
+				{
+					"ulx": 210,
+					"uly": 1553,
+					"lrx": 933,
+					"lry": 2175
+				},
+				{
+					"ulx": 2041,
+					"uly": 1553,
+					"lrx": 2572,
+					"lry": 2176
+				},
+				{
+					"ulx": 203,
+					"uly": 2289,
+					"lrx": 1206,
+					"lry": 2907
+				},
+				{
+					"ulx": 1217,
+					"uly": 2289,
+					"lrx": 1857,
+					"lry": 2907
+				},
+				{
+					"ulx": 1865,
+					"uly": 2290,
+					"lrx": 2571,
+					"lry": 2907
+				},
+				{
+					"ulx": 1040,
+					"uly": 3002,
+					"lrx": 1884,
+					"lry": 3608
+				},
+				{
+					"ulx": 200,
+					"uly": 3003,
+					"lrx": 1033,
+					"lry": 3604
+				},
+				{
+					"ulx": 1893,
+					"uly": 3005,
+					"lrx": 2571,
+					"lry": 3608
+				}
+			],
+			"staves": [
+				{
+					"ulx": 472,
+					"uly": 396,
+					"lrx": 2576,
+					"lry": 510
+				},
+				{
+					"ulx": 482,
+					"uly": 609,
+					"lrx": 2575,
+					"lry": 726
+				},
+				{
+					"ulx": 219,
+					"uly": 849,
+					"lrx": 2576,
+					"lry": 966
+				},
+				{
+					"ulx": 208,
+					"uly": 1104,
+					"lrx": 2574,
+					"lry": 1221
+				},
+				{
+					"ulx": 208,
+					"uly": 1332,
+					"lrx": 2575,
+					"lry": 1448
+				},
+				{
+					"ulx": 205,
+					"uly": 1552,
+					"lrx": 2578,
+					"lry": 1668
+				},
+				{
+					"ulx": 205,
+					"uly": 1825,
+					"lrx": 2575,
+					"lry": 1942
+				},
+				{
+					"ulx": 204,
+					"uly": 2058,
+					"lrx": 2577,
+					"lry": 2174
+				},
+				{
+					"ulx": 203,
+					"uly": 2289,
+					"lrx": 2575,
+					"lry": 2403
+				},
+				{
+					"ulx": 201,
+					"uly": 2554,
+					"lrx": 2574,
+					"lry": 2669
+				},
+				{
+					"ulx": 202,
+					"uly": 2792,
+					"lrx": 2574,
+					"lry": 2908
+				},
+				{
+					"ulx": 200,
+					"uly": 3002,
+					"lrx": 2572,
+					"lry": 3119
+				},
+				{
+					"ulx": 199,
+					"uly": 3258,
+					"lrx": 2571,
+					"lry": 3373
+				},
+				{
+					"ulx": 200,
+					"uly": 3489,
+					"lrx": 2574,
+					"lry": 3603
+				}
+			],
+			"grandstaves": [
+				{
+					"ulx": 467,
+					"uly": 398,
+					"lrx": 2575,
+					"lry": 723
+				},
+				{
+					"ulx": 210,
+					"uly": 1104,
+					"lrx": 2574,
+					"lry": 1448
+				},
+				{
+					"ulx": 209,
+					"uly": 1824,
+					"lrx": 2573,
+					"lry": 2177
+				},
+				{
+					"ulx": 201,
+					"uly": 2553,
+					"lrx": 2574,
+					"lry": 2907
+				},
+				{
+					"ulx": 200,
+					"uly": 3258,
+					"lrx": 2572,
+					"lry": 3605
+				}
+			]
+		},
+		{
+			"image": "../img/03.jpg",
+			"measures": [],
+			"staves": [],
+			"grandstaves": []
+		},
+		{
+			"image": "../img/04.jpg",
+			"measures": [],
+			"staves": [],
+			"grandstaves": []
+		}
+	]
+}
